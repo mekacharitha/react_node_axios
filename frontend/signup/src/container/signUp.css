@@ -1,0 +1,41 @@
+.mainContainer{
+    height: 500px;
+    width: 35%;
+    background-color: #42d0f0;
+    box-sizing: border-box;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin: auto;
+    margin-top: 200px;
+    text-align: center;
+    
+}
+
+.text{
+    color: aliceblue;
+    font-weight: 800;
+    font-size: 30px;
+    padding: 15px;
+}
+
+.inputFields{
+    padding: 5px;
+    margin: 15px ;
+    border-radius: 10px;
+    height:30px;
+    width:70%;
+    position: relative;
+    
+}
+
+.signUpButton{
+    color: black;
+    font-weight: 500;
+    font-size: 17px;
+    background-color: aliceblue;
+    height: 35px;
+    width: 100px;
+    margin-top: 15px;
+}
